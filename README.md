@@ -2,7 +2,7 @@ AVR Assembly Programming (ČVUT FIT)
 Implementation of multiple low-level programs written during the Computer Structures and Architectures course at Czech Technical University in Prague (ČVUT FIT).
 The repository demonstrates practical understanding of AVR microcontroller architecture, low-level computation, and embedded programming principles.
 ________________________________________
-Course Overview
+Course Overview:
 The course focuses on programming directly in AVR assembly language, emphasizing how software interacts with hardware without compiler abstraction.
 Main learning goals:
 •	Understanding CPU register architecture
@@ -12,7 +12,7 @@ Main learning goals:
 •	Performing character and numeric processing
 •	Writing structured assembly programs
 ________________________________________
-🧩 Repository Structure
+Repository Structure:
 .
 ├── Task1.X        # Arithmetic expression evaluation
 ├── lab2.X         # Hexadecimal ASCII conversion
@@ -20,7 +20,7 @@ ________________________________________
 ├── Task4.X        # Character classification and counting
 └── fin.X          # Interrupt-driven embedded application
 ________________________________________
-⚙️ Implemented Programs
+Implemented Programs:
 ________________________________________
 🔹 Task 1 — Arithmetic Evaluation
 Goal:
@@ -87,7 +87,7 @@ Concepts
 •	Synchronization via shared memory
 Represents a realistic embedded firmware structure.
 ________________________________________
-🧠 Technical Skills Demonstrated
+Technical Skills Demonstrated:
 •	AVR Assembly Language
 •	Microcontroller Architecture
 •	Register-Level Programming
@@ -97,18 +97,18 @@ ________________________________________
 •	Interrupt Handling
 •	Embedded System Design
 ________________________________________
-🛠️ Environment
+Environment:
 •	Target: AVR Microcontrollers
 •	IDE: MPLAB X / AVR Toolchain
 •	Language: AVR Assembly
 •	Course:  Computer Structures and Architectures
 •	University: ČVUT FIT (Faculty of Information Technology)
-________________________________________
-📚 Educational Context
+_______________________________________
+Educational Context:
 These programs were developed as laboratory assignments progressing from:
 Arithmetic → Data Representation → Precision → Data Processing → Interrupt Systems
 The repository documents the transition from simple instruction usage to complete embedded application design.
 ________________________________________
-👨‍💻 Author
+Author:
 Student coursework completed at ČVUT FIT as part of the Bachelor program.
 
