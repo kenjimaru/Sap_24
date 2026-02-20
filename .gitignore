@@ -1,0 +1,42 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+ehthumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# NetBeans project private settings
+nbproject/private/
+
+# Build directories (AVR / NetBeans)
+**/build/
+**/debug/
+**/production/
+
+# AVR / Embedded build artifacts
+*.o
+*.obj
+*.elf
+*.hex
+*.eep
+*.bin
+*.map
+*.lst
+*.srec
+*.cof
+
+# Assembler / linker temporary files
+*.sym
+*.tmp
+*.log
+*.bak
+
+# Misc
+tags
+local.properties
+
+# Preserve Makefiles and sources; don't ignore them
