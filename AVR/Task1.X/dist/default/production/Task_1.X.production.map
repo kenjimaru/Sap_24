@@ -1,0 +1,7 @@
+
+AVRASM ver. 2.2.8  newAsmTemplate.asm Wed Apr 17 10:03:11 2024
+
+
+CSEG start        00000100
+CSEG OVERFLOW     00000111
+CSEG end          00000114
